@@ -1,4 +1,4 @@
 # University
 MSc Computer Information Systems labs
 
-All of the labs were done in Java
+There is a mix of JAva, HTML and CSS
